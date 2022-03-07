@@ -1,4 +1,4 @@
 # The-Dicee-Game
 JS DOM manipulation
-### IMPORTANT: 
+### Important: 
 For changing dice pairs you should refreash page!!
